@@ -1,0 +1,22 @@
+Sujet: Application de gestion de partiels
+  Création d'un compte avec nom, prenom, mail, mot de passe et type. Pour les élèves: la classe de B1 à I5.
+  BackOffice -> Prof -> Créer des cours (avec 0 à n partiel). Partiels composés de questions (avec notation différentes /3 ou /5 ... et choix libres ou options).
+  FrontOffice -> Elève -> Liste des partiels -> Répondre au partiel.
+
+
+
+Objectifs Sprint 0:
+  1) Définition du backlog
+    - Liste des US exhaustif et fonctionnelle
+    - Valeurs business (priorité)
+    - Poids (points)
+  2) Sprintlog n°1
+  3) Estimation du nombre de Sprint
+    - Découpage par Sprint / Poids
+    - ScrumMaster ? TechLeader ? TeamLeader ?
+  4) DAT (choix technologiques)
+  5) Mise en place des environnements
+    - DEV / SPEC
+    - Outils Agile (Kantree)
+    - Socles
+
